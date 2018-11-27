@@ -1,11 +1,9 @@
 ﻿<Properties StartupConfiguration="{5BC4306A-A610-43EB-A39B-16C27ED3F5AC}|Default">
   <MonoDevelop.Ide.ItemProperties.Kolokvium PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Kolokvium/Classes/SamplingData.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kolokvium/Classes/dbWork.cs">
     <Files>
       <File FileName="Kolokvium/Classes/dbWork.cs" Line="1" Column="1" />
-      <File FileName="Kolokvium/Classes/HumanSettlement.cs" Line="1" Column="1" />
-      <File FileName="Kolokvium/Classes/Oblast.cs" Line="1" Column="1" />
-      <File FileName="Kolokvium/Classes/SamplingData.cs" Line="1" Column="1" />
+      <File FileName="Kolokvium/Classes/ProgramLogic.cs" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

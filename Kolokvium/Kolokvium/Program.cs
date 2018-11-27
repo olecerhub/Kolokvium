@@ -10,6 +10,7 @@ namespace Kolokvium
             Application.Init();
             MainWindow win = new MainWindow();
             win.Show();
+            Classes.ProgramLogic program = new Classes.ProgramLogic(); // my add
             Application.Run();
         }
     }
