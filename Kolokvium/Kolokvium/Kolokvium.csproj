@@ -59,6 +59,17 @@
     <Compile Include="gtk-gui\MainWindow.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\dbWork.cs" />
+    <Compile Include="Classes\Oblast.cs" />
+    <Compile Include="Classes\HumanSettlement.cs" />
+    <Compile Include="Classes\SamplingData.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="db\" />
+    <Folder Include="Classes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="db\Table_matrix.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
