@@ -67,9 +67,11 @@
   <ItemGroup>
     <Folder Include="db\" />
     <Folder Include="Classes\" />
+    <Folder Include="Notes\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="db\Table_matrix.txt" />
+    <None Include="Notes\Note#1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
