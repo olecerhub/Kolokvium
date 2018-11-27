@@ -1,0 +1,6 @@
+/Users/koristuvac/Documents/learne/Kolokvium/Kolokvium/Kolokvium/bin/Debug/Kolokvium.exe
+/Users/koristuvac/Documents/learne/Kolokvium/Kolokvium/Kolokvium/bin/Debug/Kolokvium.pdb
+/Users/koristuvac/Documents/learne/Kolokvium/Kolokvium/Kolokvium/obj/x86/Debug/Kolokvium.csprojResolveAssemblyReference.cache
+/Users/koristuvac/Documents/learne/Kolokvium/Kolokvium/Kolokvium/obj/x86/Debug/Kolokvium.csproj.CoreCompileInputs.cache
+/Users/koristuvac/Documents/learne/Kolokvium/Kolokvium/Kolokvium/obj/x86/Debug/Kolokvium.exe
+/Users/koristuvac/Documents/learne/Kolokvium/Kolokvium/Kolokvium/obj/x86/Debug/Kolokvium.pdb
