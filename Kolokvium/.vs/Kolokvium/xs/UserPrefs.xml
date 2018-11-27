@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{5BC4306A-A610-43EB-A39B-16C27ED3F5AC}|Default">
   <MonoDevelop.Ide.ItemProperties.Kolokvium PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Kolokvium/Classes/dbWork.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kolokvium/MainWindow.cs">
     <Files>
-      <File FileName="Kolokvium/Classes/dbWork.cs" Line="1" Column="1" />
-      <File FileName="Kolokvium/Classes/ProgramLogic.cs" Line="11" Column="1" />
+      <File FileName="Kolokvium/MainWindow.cs" Line="8" Column="9" />
+      <File FileName="Kolokvium/gtk-gui/Kolokvium.cs" Line="4" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
